@@ -1,0 +1,10 @@
+WAREHOUSE 
+1.Basic industrial problem: In warehouse operations, parts piling up can lead to congestion and inefficiencies, slowing down the overall process and reducing throughput.
+
+reference:https://ieeexplore.ieee.org/abstract/document/9186623
+              :https://link.springer.com/article/10.1007/s12652-018-0687-5
+2.Robots can be deployed in warehouses to identify and handle piled-up parts through techniques such as image processing and mapping. By autonomously recognizing and picking up parts, robots facilitate the smooth flow of operations, ensuring continuous productivity within the warehouse environment.
+
+3.Addressing this issue involves leveraging various capabilities of robots, including path planning to navigate through the warehouse, sensing the environment to detect pile-ups, recognizing objects accurately, and employing grasping mechanisms to handle parts efficiently.
+
+4.Required functions within the ROS platform encompass path planning for robot navigation, environment perception using sensors like LiDAR or cameras, image processing techniques for part recognition, and the implementation of machine learning algorithms to enhance the robot's decision making abilities in handling piled up parts
